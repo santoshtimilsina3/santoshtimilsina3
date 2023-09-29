@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @santoshtimilsina3
 - 👀 I’m interested in  backend development...
-- 🌱 I’m currently learning javascript..
+- 🌱 I’m currently learning the software engineering..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 santos.timil@gmail.com
 
 <!---
 santoshtimilsina3/santoshtimilsina3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
